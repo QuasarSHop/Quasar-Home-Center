@@ -1049,6 +1049,30 @@ ul.social_icon li a:hover {
 
 /** end about **/
 
+.navbar-toggler-icon {
+     display: inline-block;
+     width: 1.5em;
+     height: 1.5em;
+     vertical-align: middle;
+     content: "";
+     background: no-repeat center center;
+     background-size: 100% 100%;
+     background-color: #000 !important;
+ }
+
+ @media (max-width: 575px){
+.logo {
+    text-align: center !important;
+    padding-bottom: 6px;
+    float: left;
+    width: 50%;
+}
+
+
+}
+
+
+
 
 /** laptop **/
 
